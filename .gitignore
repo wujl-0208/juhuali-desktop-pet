@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+# SwiftPM / 编译器缓存
+.build/
+.swiftpm/
+Package.resolved
+
+# 构建产物
+*.app/
+*.dSYM/
